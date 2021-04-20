@@ -19,9 +19,11 @@ body {
     padding: 50px;
 }
 
-#app h1 {
+#app h1{
     font-size: 3rem;
-    margin-bottom: 50px;
+}
+#app h1,h2{
+    margin-bottom: 20px;
 }
 
 #app img{
