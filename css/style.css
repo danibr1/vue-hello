@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    color: #fff;
+    text-align: center;
+    height: 100vh;
+    background-image: url("../img/background.svg");
+    background-position: 0 0;
+    background-size: cover;
+}
+
+.app{
+    min-width: 1127px;
+    padding: 50px;
+}
+
+.app h1 {
+    font-size: 3rem;
+}
